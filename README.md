@@ -12,7 +12,7 @@ matricola : s281632
 
 
 
-I. Adding the meta-assignment layer to your build
+ Adding the meta-assignment layer to your build
 =================================================
 in the poky directory 
 
