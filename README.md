@@ -1,2 +1,2 @@
 # met-assignment
-OSES ASSIGNMENT ON EMBEEDED LINUX Heart Rate Monitor 
+OSES ASSIGNMENT ON EMBEDDED LINUX Heart Rate Monitor 
