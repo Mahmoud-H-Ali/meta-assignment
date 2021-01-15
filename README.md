@@ -29,5 +29,6 @@ add these lines in the local.conf file to the recipes to the image to be deploye
 
 
 then run 
+
 	bitbake-layers add-layer meta-assignment
 
